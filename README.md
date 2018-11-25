@@ -1,3 +1,3 @@
-# assembly-to-binary-converter
+# Assembly to binary converter
 
 writing ...
